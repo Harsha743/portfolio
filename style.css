@@ -81,7 +81,7 @@ header{
   background: none;
   padding:10px 20px;
   font-size: 20px;
-  font-family:Vegan Style Personal Use;
+  font-family:Backslash;
   cursor: pointer;
   transition: 0.8s;
   position: relative;
@@ -127,7 +127,7 @@ nav{
     z-index:1;
     display: inline-block;
     text-align: center;
-    font-family: Vegan Style Personal Use;
+    font-family: Backslash;
 
 
   }
